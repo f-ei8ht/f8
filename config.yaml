@@ -1,6 +1,6 @@
 baseURL: https://www.example.com # Replace with your domain
 languageCode: en-us
-title: Blog Title
+title: Saif
 menu:
   main:
     - identifier: home
@@ -31,6 +31,7 @@ params:
   abbrDateFmt: "Jan 2"
   author: "Blog Author"
   brandIconFile: "images/brandIcon.svg"
+  math: true
   dateFmt: "2006-01-02"
   social:
     - name: GitHub
@@ -43,4 +44,4 @@ params:
       url: https://www.reddit.com/user/ian-s-mcb
     - name: StackOverflow
       url: https://stackoverflow.com/users/3417846/ian-s-mcb
-  subtitle: "Description about Blog Author"
+  subtitle: "I use arch by the way"

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=33143&amp;path=livereload" data-no-instant defer></script>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta
@@ -9,7 +9,7 @@
   />
   
     
-      <title>Emoji Support | Blog Title</title>
+      <title>My Competitive Programming Setup | Saif</title>
     
   
   <link rel="stylesheet" href="/css/reset.css"/>
@@ -24,20 +24,58 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 </head>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css"
+  integrity="sha384-zh0CIslj+VczCZtlzBcjt5ppRcsAmDnRem7ESsYwWwg3m/OaJ2l4x7YBZl9Kxxib"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.js"
+  integrity="sha384-Rma6DA2IPUwhNxmrB/7S3Tno0YY7sFu9WSYMCuulLhIqYSGZ2gKCJWIqhBWqMQfh"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/contrib/auto-render.min.js"
+  integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh"
+  crossorigin="anonymous"
+></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      
+      
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\begin{equation}", right: "\\end{equation}", display: true },
+        { left: "\\begin{align}", right: "\\end{align}", display: true },
+        { left: "\\begin{alignat}", right: "\\end{alignat}", display: true },
+        { left: "\\begin{gather}", right: "\\end{gather}", display: true },
+        { left: "\\begin{CD}", right: "\\end{CD}", display: true },
+        { left: "\\[", right: "\\]", display: true },
+      ],
+      
+      throwOnError: false,
+    });
+  });
+</script>
 
   <body>
     <div id="root">
       <header>
   <div id="brand">
-    <a class="icon-link" href="http://localhost:33143/">
+    <a class="icon-link" href="http://localhost:1313/">
       <img
         class="icon"
         src="/images/brandIcon.svg"
       />
     </a>
     <div class="text">
-      <a href="http://localhost:33143/"><h1>Blog Title</h1></a>
-      <h3>Description about Blog Author</h3>
+      <a href="http://localhost:1313/"><h1>Saif</h1></a>
+      <h3>I use arch by the way</h3>
     </div>
   </div>
   <nav>
@@ -67,50 +105,47 @@
 </header>
 
       <div id="content">
-        
   <main>
     <article>
-      <h1 class="title">Emoji Support</h1>
-      
+      <h1 class="title">My Competitive Programming Setup</h1>
+      <h3 class="subtitle">ft. Sublime Text and Geany</h3>
       <div class="post-meta">
   <strong>
     <span>Posted on</span>
-    <time>2021-01-13</time>
+    <time>2025-01-19</time>
     <span>in</span>
     
-      <a href="/categories/syntax">syntax</a>
+      <a href="/categories/programming">programming</a>
   </strong>
-  <span> • 123 words</span>
+  <span> • 95 words</span>
   <span> • 1 minute read</span>
-  
-    <div>
-      Last updated on
-      <time>2021-08-18</time>
-    </div>
   
   
     <div>
       <span>Tags:</span>
       
-        <a href="/tags/emoji">emoji</a>
+        <a href="/tags/sublime">sublime</a>, 
+        <a href="/tags/cpp">cpp</a>, 
+        <a href="/tags/setup">setup</a>
     </div>
   
 </div>
 
-      <div class="content"><p>Emoji can be enabled in a Hugo project in a number of ways.</p>
-<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
-<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-<!-- raw HTML omitted -->
-<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
-<hr>
-<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
-</span></span><span style="display:flex;"><span>  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-</span></span><span style="display:flex;"><span>}</span></span></code></pre></div></div>
+      <div class="content"><p>This article offers a sample of my competitive programming setup syntax that can be used to submit, test or code around as well.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Ensure that you have below listed things installed on your system.</p>
+<ul>
+<li>GCC(g++ for cpp)</li>
+<li>They are required to build and compile cpp programs.</li>
+</ul>
+<h2 id="install-sublime-text">Install Sublime Text</h2>
+<p>Next you must install sublime text from their <a href="https://www.sublimetext.com">officail website</a>.</p>
+<h3 id="setup-for-linux">Setup for linux</h3>
+<p>I use <strong>arch</strong> by the way, so I will tell you how to setup for arch based distro&rsquo;s.</p>
+<p>I use 4189 build of sublime, you can download that as it is latest.</p></div>
     </article>
   </main>
-
-      </div>
+</div>
       <footer>
   <hr />
   
@@ -137,7 +172,7 @@
   
   <p class="copyright">
     Copyright © 2025
-    <a href="http://localhost:33143/"><strong>Blog Author</strong></a>.
+    <a href="http://localhost:1313/"><strong>Blog Author</strong></a>.
     This work is licensed under the
     <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license.
   </p>
