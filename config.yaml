@@ -1,6 +1,7 @@
 baseURL: https://my-new-hugo-si.netlify.app # Replace with your domain
 languageCode: en-us
-title: Saif
+title: "d/dx f8 = saif"
+
 menu:
   main:
     - identifier: home
@@ -30,7 +31,6 @@ menu:
 params:
   abbrDateFmt: "Jan 2"
   author: "Blog Author"
-  brandIconFile: "images/brandIcon.svg"
   math: true
   dateFmt: "2006-01-02"
   social:

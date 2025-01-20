@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cpp on Saif</title>
-    <link>http://localhost:42185/tags/cpp/</link>
-    <description>Recent content in Cpp on Saif</description>
+    <title>Cpp on d/dx f8 = saif</title>
+    <link>http://localhost:43685/tags/cpp/</link>
+    <description>Recent content in Cpp on d/dx f8 = saif</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:42185/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43685/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Competitive Programming Setup</title>
-      <link>http://localhost:42185/posts/emoji-support/</link>
+      <link>http://localhost:43685/posts/emoji-support/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42185/posts/emoji-support/</guid>
+      <guid>http://localhost:43685/posts/emoji-support/</guid>
       <description>&lt;p&gt;This article offers a sample of my competitive programming setup syntax that can be used to submit, test or code around as well.&lt;/p&gt;</description>
     </item>
   </channel>
