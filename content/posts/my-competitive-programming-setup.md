@@ -30,7 +30,7 @@ Ensure that you have below listed things installed on your system.
 
 ## Install Sublime Text
 
-Next you must install sublime text from their [officail website](https://www.sublimetext.com).
+Next you must install sublime text from their [official website](https://www.sublimetext.com).
 
 ### Setup for linux
 
@@ -38,5 +38,6 @@ I use **arch** by the way, so I will tell you how to setup for arch based distro
 
 I use 4189 build of sublime, you can download that as it is latest.
 Hi there.
+
 
 
