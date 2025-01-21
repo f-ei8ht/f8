@@ -24,24 +24,18 @@ menu:
       name: Tags
       url: /tags/
       weight: 5
-    - identifier: rss
-      name: RSS
-      url: /index.xml
+    - identifier: contact
+      name: Contact
+      url: /contact/
       weight: 6
 params:
   abbrDateFmt: "Jan 2"
   author: "Blog Author"
   math: true
   dateFmt: "2006-01-02"
-  social:
-    - name: GitHub
-      url: https://github.com/ian-s-mcb
-    - name: GitLab
-      url: https://gitlab.com/ian-s-mcb
-    - name: Quizlet
-      url: https://quizlet.com/ian-s-mcb
-    - name: Reddit
-      url: https://www.reddit.com/user/ian-s-mcb
-    - name: StackOverflow
-      url: https://stackoverflow.com/users/3417846/ian-s-mcb
   subtitle: "I use arch by the way"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
