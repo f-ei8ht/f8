@@ -25,7 +25,7 @@ This article offers a sample of my competitive programming setup syntax that can
 
 Ensure that you have below listed things installed on your system.
 
-- GCC(g++ for cpp)
+- GCC (g++ for cpp)
 - They are required to build and compile cpp programs.
 
 ## Install Sublime Text
@@ -34,10 +34,10 @@ Next you must install sublime text from their [official website](https://www.sub
 
 ### Setup for linux
 
-I use **arch** by the way, so I will tell you how to setup for arch based distro's.
+I use 4189 build of sublime on arch by the way, you can download which one is latest.
 
-I use 4189 build of sublime, you can download that as it is latest.
-Hi there.
+Follow the steps on this [page](https://www.sublimetext.com/docs/linux_repositories.html#pacman).
 
-
-
+After downloading sublime text, download linter for c++ on sublime.
+- SublimeLinter
+- SublimeLinter-gcc 
