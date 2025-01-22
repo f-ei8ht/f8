@@ -41,3 +41,4 @@ Follow the steps on this [page](https://www.sublimetext.com/docs/linux_repositor
 After downloading sublime text, download linter for c++ on sublime.
 - SublimeLinter
 - SublimeLinter-gcc 
+- Make sure you have package control installed already.
