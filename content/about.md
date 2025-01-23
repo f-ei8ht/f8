@@ -3,6 +3,10 @@ title: About
 layout: default
 ---
 
-Ut vitae sagittis tortor. Aliquam euismod vel elit id porttitor. Sed sit amet feugiat urna, quis semper ipsum. Ut vitae ligula ultrices, porttitor ipsum nec, accumsan est. Nunc posuere felis non mauris volutpat interdum. Sed consequat arcu est, eget consequat enim feugiat rhoncus. Nunc sit amet rhoncus libero, venenatis tristique eros. Duis feugiat sem ac eros maximus gravida. Cras mollis vulputate risus, eget tincidunt neque porttitor vitae. Sed sit amet volutpat urna. Aenean ultricies turpis eget porta porttitor.
+Hello there 👋, I’m Saif, and I like to code in java and c++.
+Apart from coding, I love exploring mathematical concepts. 
+I also dedicate time to self-improvement, focusing on communication and staying updated with the latest trends in technology.
 
-Duis eget nibh ut nisi blandit pulvinar id vel mauris. Quisque quis magna dapibus, iaculis magna in, semper augue. Donec ullamcorper justo sed dignissim dictum. Sed in purus ac magna ultrices pharetra. Nam id lacus in urna varius euismod at a erat. Cras justo nisl, finibus nec laoreet vitae, ultrices pulvinar velit. Morbi ornare dolor eget pellentesque lobortis. Aliquam consequat tellus erat, at suscipit ipsum ultrices lobortis. Proin malesuada orci in nunc pellentesque volutpat. Phasellus tincidunt suscipit sagittis. Aenean in sodales est. Vivamus eu odio sit amet lacus porttitor venenatis. Nulla elit lectus, convallis ut orci quis, pharetra varius mi. Proin vitae laoreet diam.
+Currently, I’m on a mission to land an exciting role in tech, dedicating 11-12 hours daily to upskilling and preparing for the professional world.
+
+### Why the name f8?

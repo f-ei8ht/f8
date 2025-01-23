@@ -34,7 +34,7 @@ Next you must install sublime text from their [official website](https://www.sub
 
 ### Setup for linux
 
-I use 4189 build of sublime on arch by the way, you can download which one is latest.
+I use 4189 build of sublime on arch by the way, you can download the latest one.
 
 Follow the steps on this [page](https://www.sublimetext.com/docs/linux_repositories.html#pacman).
 
