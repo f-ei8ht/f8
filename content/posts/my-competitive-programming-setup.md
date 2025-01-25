@@ -42,3 +42,34 @@ After downloading sublime text, download linter for c++ on sublime.
 - SublimeLinter
 - SublimeLinter-gcc 
 - Make sure you have package control installed already.
+
+Then add this in sublimlinter settings
+
+```json
+// SublimeLinter Settings - User
+{
+	"debug": true,
+	"linters": {
+		"SublimeLinter-gcc" : {
+			"disable": false,
+		}
+	},
+	"styles": [
+		{
+			"scope": "region.bluish markup.warning.sublime_linter",
+			"types": ["warning"],
+			"icon": "square",
+			"mark_style": "solid_underline",
+			"phantom": "{code}, {msg}, {linter}"
+		},
+		{
+			"scope": "region.redish markup.warning.sublime_linter",
+			"types": ["error"],
+			"icon": "pointer",
+			"mark_style": "squiggly_underline",
+			"phantom": "{code}, {msg}, {linter}"
+		}
+	]
+}
+
+```

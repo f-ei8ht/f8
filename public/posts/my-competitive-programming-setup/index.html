@@ -103,7 +103,7 @@
     
       <a href="/categories/programming">programming</a>
   </strong>
-  <span> • 109 words</span>
+  <span> • 166 words</span>
   <span> • 1 minute read</span>
   
   
@@ -140,7 +140,34 @@
 <li>SublimeLinter</li>
 <li>SublimeLinter-gcc</li>
 <li>Make sure you have package control installed already.</li>
-</ul></div>
+</ul>
+<p>Then add this in sublimlinter settings</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span><span style="color:#75715e">// SublimeLinter Settings - User
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>{
+</span></span><span style="display:flex;"><span>	<span style="color:#f92672">&#34;debug&#34;</span>: <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>	<span style="color:#f92672">&#34;linters&#34;</span>: {
+</span></span><span style="display:flex;"><span>		<span style="color:#f92672">&#34;SublimeLinter-gcc&#34;</span> : {
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;disable&#34;</span>: <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>		}
+</span></span><span style="display:flex;"><span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#f92672">&#34;styles&#34;</span>: [
+</span></span><span style="display:flex;"><span>		{
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;scope&#34;</span>: <span style="color:#e6db74">&#34;region.bluish markup.warning.sublime_linter&#34;</span>,
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;types&#34;</span>: [<span style="color:#e6db74">&#34;warning&#34;</span>],
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;icon&#34;</span>: <span style="color:#e6db74">&#34;square&#34;</span>,
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;mark_style&#34;</span>: <span style="color:#e6db74">&#34;solid_underline&#34;</span>,
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;phantom&#34;</span>: <span style="color:#e6db74">&#34;{code}, {msg}, {linter}&#34;</span>
+</span></span><span style="display:flex;"><span>		},
+</span></span><span style="display:flex;"><span>		{
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;scope&#34;</span>: <span style="color:#e6db74">&#34;region.redish markup.warning.sublime_linter&#34;</span>,
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;types&#34;</span>: [<span style="color:#e6db74">&#34;error&#34;</span>],
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;icon&#34;</span>: <span style="color:#e6db74">&#34;pointer&#34;</span>,
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;mark_style&#34;</span>: <span style="color:#e6db74">&#34;squiggly_underline&#34;</span>,
+</span></span><span style="display:flex;"><span>			<span style="color:#f92672">&#34;phantom&#34;</span>: <span style="color:#e6db74">&#34;{code}, {msg}, {linter}&#34;</span>
+</span></span><span style="display:flex;"><span>		}
+</span></span><span style="display:flex;"><span>	]
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></div>
     </article>
   </main>
 </div>
