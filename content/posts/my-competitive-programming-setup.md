@@ -71,5 +71,4 @@ Then add this in sublimlinter settings
 		}
 	]
 }
-
 ```
