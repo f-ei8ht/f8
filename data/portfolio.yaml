@@ -61,3 +61,6 @@ skills:
   - title: "Front-end"
     callouts:
       - name: "HTML, CSS, JS, Tailwind, Flowbite, Bootstrap"
+  - title: "Back-end"
+    callouts:
+      - name: "Springboot, Hibernate"
