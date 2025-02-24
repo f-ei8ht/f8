@@ -43,3 +43,5 @@ Desktop:
   - Deb
   - AppImage
   - Flatpak
+
+#### Step 2: Install Git

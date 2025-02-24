@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on d/dx f8 = saif</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:37237/posts/</link>
     <description>Recent content in Posts on d/dx f8 = saif</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37237/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I sync my notes</title>
-      <link>http://localhost:1313/posts/how-i-sync-my-notes/</link>
+      <link>http://localhost:37237/posts/how-i-sync-my-notes/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-i-sync-my-notes/</guid>
+      <guid>http://localhost:37237/posts/how-i-sync-my-notes/</guid>
       <description>&lt;h1 id=&#34;a-guide-to-syncing-your-notes-or-files-across-different-devices-using-obsidian&#34;&gt;A guide to syncing your notes or files across different devices using Obsidian.&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <link>http://localhost:37237/posts/math-typesetting/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <guid>http://localhost:37237/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
   </channel>
