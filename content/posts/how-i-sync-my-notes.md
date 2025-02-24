@@ -24,8 +24,22 @@ Before you begin, ensure you have the following installed on your devices:
 ### 2. Why I Chose This Method
 Initially, I used VS Code and Markdown for note-taking. Over time, I explored alternatives like Notion and Standard Notes, but they didn’t suit my workflow. Eventually, I switched to Obsidian—a simple and efficient choice.
 
-However, I didn’t want to pay for Obsidian Sync. Instead, I set up Git-based syncing for my notes, and I realized others might find this approach useful too.
+However, I didn't want to pay for Obsidian Sync. Instead, I set up Git-based syncing for my notes, and I realized others might find this approach useful too.
 
 ### 3. Getting Started
 #### Step 1: Install Obsidian
-Download Obsidian based on your operating system:
+Download [Obsidian](https://obsidian.md/download) based on your operating system:
+
+Mobile:
+- iOS 
+- Android 
+  
+Desktop:
+- Windows 
+- Mac 
+- Linux:
+  - AppImage
+  - Snap [ I installed via snap ;) ]
+  - Deb
+  - AppImage
+  - Flatpak
