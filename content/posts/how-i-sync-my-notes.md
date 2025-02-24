@@ -2,7 +2,7 @@
 author: Saif Ali Khan
 title: How I sync my notes
 date: 2025-02-17
-Lastmod: 2025-02-23
+Lastmod: 2025-02-25
 description: Guide of how to sync your notes across different devices.
 categories:
   - obsidian
@@ -39,7 +39,7 @@ Desktop:
 - Mac 
 - Linux:
   - AppImage
-  - Snap [ I installed via snap ;) ]
+  - Snap
   - Deb
   - AppImage
   - Flatpak
