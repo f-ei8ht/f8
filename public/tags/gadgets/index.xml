@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on d/dx f8 = saif</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on d/dx f8 = saif</description>
+    <title>Gadgets on d/dx f8 = saif</title>
+    <link>http://localhost:1313/tags/gadgets/</link>
+    <description>Recent content in Gadgets on d/dx f8 = saif</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gadgets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech I Use Everyday</title>
       <link>http://localhost:1313/posts/tech-use-everyday/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/tech-use-everyday/</guid>
       <description>&lt;h1 id=&#34;things-i-use-everyday&#34;&gt;Things I use everyday&lt;/h1&gt;&#xA;&lt;p&gt;This is a list of the gadgets and devices I rely on every day, along with how they fit into my workflow.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-laptop&#34;&gt;1. Laptop&lt;/h3&gt;&#xA;&lt;p&gt;I use Lenovo ThinkPad E16 GEN 2 🫠&lt;/p&gt;&#xA;&lt;p&gt;Specifications:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CPU: AMD Ryzen 5 7535U&lt;/li&gt;&#xA;&lt;li&gt;GPU: AMD Radeon 680M [Integrated]&lt;/li&gt;&#xA;&lt;li&gt;RAM: 16 GiB&lt;/li&gt;&#xA;&lt;li&gt;SSD: 512 GiB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Smartphone&#xA;Model: [Your Phone Name]&#xA;Usage: Communication, note-taking, browsing, and testing Android apps.&lt;/li&gt;&#xA;&lt;li&gt;Other Devices&#xA;[Device Name] – [Brief usage]&#xA;[Device Name] – [Brief usage]&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>How I sync my notes</title>
-      <link>http://localhost:1313/posts/how-i-sync-my-notes/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-i-sync-my-notes/</guid>
-      <description>&lt;h1 id=&#34;a-guide-to-syncing-your-notes-or-files-across-different-devices-using-obsidian&#34;&gt;A guide to syncing your notes or files across different devices using Obsidian.&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>HI there</title>
-      <link>http://localhost:1313/posts/math-typesetting/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 author: Saif Ali Khan
 title: Tech I Use Everyday
-date: 2025-02-25
+date: 2025-02-24
 description: A list of the gadgets and devices I use daily
 categories:
   - hardware
@@ -10,18 +10,24 @@ tags:
   - gadgets
 ---
 
-# A guide to syncing your notes or files across different devices using Obsidian.
 
+# Things I use everyday
 
-Tech I Use Everyday
-Technology plays a crucial role in my daily life, whether for work, productivity, or entertainment. This is a list of the gadgets and devices I rely on every day, along with how they fit into my workflow.
+This is a list of the gadgets and devices I rely on every day, along with how they fit into my workflow.
 
-1. Laptop
-Model: [Your Laptop Name]
-Usage: Coding, competitive programming, Android development, and general work.
-2. Smartphone
+### 1. Laptop
+
+I use Lenovo ThinkPad E16 GEN 2 🫠
+
+Specifications:
+- CPU: AMD Ryzen 5 7535U
+- GPU: AMD Radeon 680M [Integrated]
+- RAM: 16 GiB 
+- SSD: 512 GiB
+
+1. Smartphone
 Model: [Your Phone Name]
 Usage: Communication, note-taking, browsing, and testing Android apps.
-3. Other Devices
+1. Other Devices
 [Device Name] – [Brief usage]
 [Device Name] – [Brief usage]
