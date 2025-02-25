@@ -1,8 +1,8 @@
 ---
 author: Saif Ali Khan
-title: Tech I Use Everyday
+title: How Techie Am I?
 date: 2025-02-24
-description: A list of the gadgets and devices I use daily
+description: A list of gadgets and devices I use daily
 categories:
   - hardware
 tags: 
@@ -10,24 +10,55 @@ tags:
   - gadgets
 ---
 
+I usually code on anything I can, but my laptop is my go-to companion.
+I also have a personal computer, but I use it only for gaming.
 
-# Things I use everyday
-
-This is a list of the gadgets and devices I rely on every day, along with how they fit into my workflow.
+---
 
 ### 1. Laptop
 
-I use Lenovo ThinkPad E16 GEN 2 🫠
+I've a Lenovo ThinkPad E16 GEN 2
 
 Specifications:
-- CPU: AMD Ryzen 5 7535U
-- GPU: AMD Radeon 680M [Integrated]
-- RAM: 16 GiB 
-- SSD: 512 GiB
+- **CPU:** AMD Ryzen 5 7535U
+- **GPU:** AMD Radeon 680M [Integrated]
+- **RAM:** 16 GiB DDR5
+- **SSD:** 512 GiB M.2 PCle Gen4
+- **Display:** 1920 x 1200 (IPS)
+- **Camera:** 720p
+- Fingerprint reader and the classic <strong style="color:red">TrackPoint</strong> 😉.
 
-1. Smartphone
-Model: [Your Phone Name]
-Usage: Communication, note-taking, browsing, and testing Android apps.
-1. Other Devices
-[Device Name] – [Brief usage]
-[Device Name] – [Brief usage]
+I really wanted to get a **ThinkPad T480**, but unfortunately, I couldn't find one.
+
+---
+
+### 2. Personal computer
+
+I built this custom gaming PC in 2022. While it's a low-to-mid-range setup, 
+it handles gaming and other tasks well. I mainly use it for gaming and occasional work.
+
+Specifications:
+- **Case:** Ant Esports cabinet
+- **Motherboard:** MSI B550 Pro-VDH WiFi
+- **CPU:** AMD Ryzen 5 5600G (with integrated Vega graphics)
+- **RAM:** 16 GiB DDR4 (XPG, 2 x 8 GiB)
+- **Storage:**
+  - 256 GiB XPG NVMe SSD
+  - 512 GiB Crucial NVMe SSD
+  - 1 TB Western Digital HDD
+- **Monitors:**
+  - ASUS (1920 x 1080)
+  - A small lg monitor
+- **PSU:** GIGABYTE GP-P550B
+
+At the time of writing, I'm playing **Red Dead Redemption 2**. 🎮
+
+---
+
+### 3. Mobile Phone
+
+I've an **iPhone 11 (64GB, Black)**—it still works well and serves my needs.
+
+I primarily use it to view my notes on **Obsidian** and take daily notes on **RemNote**. 
+I also use **iSH Shell** to pull updates to my **Obsidian** vault from **Git**. 
+However, the app I use the most on this phone is **Discord**.
