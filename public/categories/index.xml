@@ -9,17 +9,17 @@
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hardware</title>
-      <link>http://localhost:1313/categories/hardware/</link>
+      <title>Devices</title>
+      <link>http://localhost:1313/categories/devices/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/hardware/</guid>
+      <guid>http://localhost:1313/categories/devices/</guid>
       <description></description>
     </item>
     <item>
-      <title>Obsidian</title>
-      <link>http://localhost:1313/categories/obsidian/</link>
+      <title>Note-Taking</title>
+      <link>http://localhost:1313/categories/note-taking/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/obsidian/</guid>
+      <guid>http://localhost:1313/categories/note-taking/</guid>
       <description></description>
     </item>
     <item>

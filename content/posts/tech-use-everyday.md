@@ -4,9 +4,10 @@ title: How Techie Am I?
 date: 2025-02-24
 description: A list of gadgets and devices I use daily
 categories:
-  - hardware
+  - devices
 tags: 
   - tech
+  - setup
   - gadgets
 ---
 
@@ -51,6 +52,7 @@ Specifications:
   - ASUS (1920 x 1080)
   - A small lg monitor
 - **PSU:** GIGABYTE GP-P550B
+- **UPS:** Luminous pro 1100
 
 At the time of writing, I'm playing **Red Dead Redemption 2**.
 
@@ -64,5 +66,24 @@ I primarily use it to view my notes on **Obsidian** and take daily notes on **Re
 I also use **iSH Shell** to pull updates to my **Obsidian** vault from **Git**. 
 However, the app I use the most on this phone is **Discord**.
 
+---
+
 ### 4. Misc
 
+I also have several peripherals that I use depending on my needs:
+
+- **Keyboards:**
+  - Ant Esports MK3400V2W
+  - Logitech K120 [I use this the most]
+  - Prodot Keyboard
+  - Ant Esports KM500 Keyboard
+- **Mice:**
+  - Zebronics Speedy Wireless Mouse
+  - Ant Esports GM320 RGB Gaming Mouse
+  - Ant Esports KM500 Mouse
+- **Audio:**
+  - boAt Airdopes 161 Deadpool Edition
+  - Cosmic Byte GS410 Wired Over-Ear Headphones
+  - Ant Esports GS100 2.0 Multimedia Gaming Speakers
+- **Controller:**
+  - Quantum QHM7468 USB joypad

@@ -5,10 +5,10 @@ date: 2025-02-17
 Lastmod: 2025-02-25
 description: Guide of how to sync your notes across different devices.
 categories:
-  - obsidian
+  - note-taking
 tags:
   - markdown
-  - notes
+  - obsidian
 ---
 
 A guide to syncing your notes or files across different devices using Obsidian.
