@@ -11,9 +11,12 @@ tags:
   - notes
 ---
 
-# A guide to syncing your notes or files across different devices using Obsidian.
+A guide to syncing your notes or files across different devices using Obsidian.
 
 <!--more-->
+
+---
+
 ### 1. Prerequisites
 Before you begin, ensure you have the following installed on your devices:
 - Obsidian (for note-taking)
@@ -21,10 +24,14 @@ Before you begin, ensure you have the following installed on your devices:
 - iSH Shell (for Git on iOS) 
 - termux (for Git on Android)
 
+---
+
 ### 2. Why I Chose This Method
 Initially, I used VS Code and Markdown for note-taking. Over time, I explored alternatives like Notion and Standard Notes, but they didn’t suit my workflow. Eventually, I switched to Obsidian—a simple and efficient choice.
 
 However, I didn't want to pay for Obsidian Sync. Instead, I set up Git-based syncing for my notes, and I realized others might find this approach useful too.
+
+---
 
 ### 3. Getting Started
 #### Step 1: Install Obsidian

@@ -10,10 +10,11 @@ tags:
   - gadgets
 ---
 
-I usually code on anything I can, but my laptop is my go-to companion.
-I also have a personal computer, but I use it only for gaming.
+I usually code on anything I can, but my laptop is my go-to companion. I also have a personal computer, but I use it only for gaming.
 
----
+<!--more-->
+
+--- 
 
 ### 1. Laptop
 
@@ -51,7 +52,7 @@ Specifications:
   - A small lg monitor
 - **PSU:** GIGABYTE GP-P550B
 
-At the time of writing, I'm playing **Red Dead Redemption 2**. 🎮
+At the time of writing, I'm playing **Red Dead Redemption 2**.
 
 ---
 
@@ -62,3 +63,6 @@ I've an **iPhone 11 (64GB, Black)**—it still works well and serves my needs.
 I primarily use it to view my notes on **Obsidian** and take daily notes on **RemNote**. 
 I also use **iSH Shell** to pull updates to my **Obsidian** vault from **Git**. 
 However, the app I use the most on this phone is **Discord**.
+
+### 4. Misc
+
