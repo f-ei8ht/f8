@@ -23,9 +23,9 @@
       <description>&lt;p&gt;A guide to syncing your notes or files across different devices using Obsidian.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>HI there</title>
+      <title>Maths</title>
       <link>http://localhost:1313/posts/math-typesetting/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
@@ -34,7 +34,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hello there 👋, I’m Saif, and I like to code in java and c++.&#xA;Apart from coding, I love exploring mathematical concepts.&#xA;I also dedicate time to self-improvement, focusing on communication and staying updated with the latest trends in technology.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I’m on a mission to land an exciting role in tech, dedicating 11-12 hours daily to upskilling and preparing for the professional world.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-the-name-f8&#34;&gt;Why the name f8?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I was trying to find a good alias name for me, one day the function keys caught my attention and I liked the f8 key, so I put the name f8 on work.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Hello there 👋. I’m &lt;strong&gt;Saif&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;On this site:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I will share my journey as a developer and problem solver.&lt;/li&gt;&#xA;&lt;li&gt;Document my projects and technical explorations.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;My Technical Interests:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Backend development &amp;amp; system design&lt;/li&gt;&#xA;&lt;li&gt;Competitive programming &amp;amp; DSA&lt;/li&gt;&#xA;&lt;li&gt;Mathematics &amp;amp; little bit of physics&lt;/li&gt;&#xA;&lt;li&gt;Linux&lt;/li&gt;&#xA;&lt;li&gt;Open Source&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/mehmetemineker/flappy-bird/pull/4/files&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xA;  &gt;Pull Request 1&lt;/a&#xA;&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/khanshoaib3/PicturePuzzle/pull/1/commits/8e896d48592e348fd84c139a3de88373d03c0e71&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xA;  &gt;Pull Request 2&lt;/a&#xA;&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/mehmetemineker/flappy-bird/pull/5/files&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xA;  &gt;Pull Request 3&lt;/a&#xA;&gt;&#xA; - I closed this request for some reason.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A Bit More About Me:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>

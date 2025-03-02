@@ -57,7 +57,7 @@ education:
 skills:
   - title: "Programming Languages"
     callouts:
-      - name: "Java, Kotlin, C++, Go, Haskell"
+      - name: "Java, Kotlin, C++, Go"
   - title: "Front-end"
     callouts:
       - name: "HTML, CSS, JS, Tailwind, Solid.js"

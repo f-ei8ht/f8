@@ -1,7 +1,7 @@
 ---
 author: Hugo Authors
-title: HI there
-date: 2021-02-25
+title: Maths
+date: 2025-02-01
 description: A brief guide to setup KaTeX
 categories:
   - syntax

@@ -108,8 +108,8 @@
     
       <a href="/categories/note-taking">note-taking</a>
   </strong>
-  <span> • 145 words</span>
-  <span> • 1 minute read</span>
+  <span> • 545 words</span>
+  <span> • 3 minute read</span>
   
     <div>
       Last updated on
@@ -134,7 +134,7 @@
 <li>Obsidian (for note-taking)</li>
 <li>Git (for version control and syncing)</li>
 <li>iSH Shell (for Git on iOS)</li>
-<li>termux (for Git on Android)</li>
+<li>Termux (for Git on Android)</li>
 </ul>
 <hr>
 <h3 id="2-why-i-chose-this-method">2. Why I Chose This Method</h3>
@@ -147,26 +147,141 @@
   >Obsidian</a
 >
  based on your operating system:</p>
-<p>Mobile:</p>
+<p><strong>Mobile:</strong></p>
 <ul>
 <li>iOS</li>
 <li>Android</li>
 </ul>
-<p>Desktop:</p>
+<p><strong>Desktop/Laptop:</strong></p>
 <ul>
 <li>Windows</li>
-<li>Mac</li>
+<li>macOS</li>
 <li>Linux:
 <ul>
 <li>AppImage</li>
 <li>Snap</li>
 <li>Deb</li>
-<li>AppImage</li>
 <li>Flatpak</li>
 </ul>
 </li>
 </ul>
-<h4 id="step-2-install-git">Step 2: Install Git</h4></div>
+<h4 id="step-2-install-git">Step 2: Install Git</h4>
+<p>Download <a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer"
+  >Git</a
+>
+ based on your operating system:</p>
+<p><strong>Mobile:</strong></p>
+<ul>
+<li><strong>iOS</strong>: iSH Shell (it uses Alpine Linux, so we can install Git using <code>apk add git</code>)</li>
+<li><strong>Android</strong>: Termux (install Git using <code>pkg install git</code>)</li>
+</ul>
+<p><strong>Desktop/Laptop:</strong></p>
+<ul>
+<li><a href="https://git-scm.com/downloads/win" target="_blank" rel="noopener noreferrer"
+  >Windows</a
+>
+</li>
+<li><a href="https://git-scm.com/downloads/mac" target="_blank" rel="noopener noreferrer"
+  >macOS</a
+>
+</li>
+<li><a href="https://git-scm.com/downloads/linux" target="_blank" rel="noopener noreferrer"
+  >Linux</a
+>
+ (I use Arch, so just <code>sudo pacman -S git</code>)</li>
+</ul>
+<hr>
+<h3 id="4-setting-up-git-based-syncing">4. Setting Up Git-Based Syncing</h3>
+<h4 id="step-1-create-an-obsidian-vault-and-initialize-git">Step 1: Create an Obsidian Vault and Initialize Git</h4>
+<ul>
+<li>First, create an Obsidian vault on your primary device (e.g., your PC or Mac).</li>
+<li>Navigate to the vault directory and initialize a Git repository:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>cd /path/to/your/obsidian-vault
+</span></span><span style="display:flex;"><span>git init
+</span></span><span style="display:flex;"><span>git add .
+</span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#34;Initial commit&#34;</span>
+</span></span><span style="display:flex;"><span>git branch -M main
+</span></span><span style="display:flex;"><span>git remote add origin &lt;your-github-repo-url&gt;
+</span></span><span style="display:flex;"><span>git push -u origin main
+</span></span></code></pre></div></li>
+</ul>
+<h4 id="step-2-syncing-notes-on-ios">Step 2: Syncing Notes on iOS</h4>
+<ul>
+<li>Download and install iSH Shell.</li>
+<li>Inside iSH, install Git using:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>apk add git
+</span></span></code></pre></div></li>
+<li>Clone your Git repository to iSH:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git clone &lt;your-github-repo-url&gt;
+</span></span></code></pre></div></li>
+<li>iSH creates a storage folder inside iPhone storage. Copy the cloned vault to the <strong>Obsidian</strong> app&rsquo;s folder manually.</li>
+<li>Whenever you update notes, pull the latest changes in iSH and copy them to the Obsidian folder again.</li>
+<li>Make sure to create the Obsidian vault inside <strong>On My iPhone</strong> location.</li>
+<li>Make sure you know the path of your cloned repo on iSH, mine is <strong>/home/notes</strong>.</li>
+</ul>
+<h4 id="step-3-syncing-notes-on-android">Step 3: Syncing Notes on Android</h4>
+<ul>
+<li>Open Termux and install Git:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>pkg install git
+</span></span></code></pre></div></li>
+<li>Clone the repository into a convenient location:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git clone &lt;your-github-repo-url&gt;
+</span></span></code></pre></div></li>
+<li>Open Obsidian and set the vault location to the cloned directory.</li>
+<li>Whenever you update notes, pull the latest changes.</li>
+</ul>
+<h4 id="step-4-pull-changes">Step 4: Pull Changes</h4>
+<ul>
+<li>You just need to write this command</li>
+<li>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git pull origin main
+</span></span></code></pre></div></li>
+</ul>
+<h4 id="step-5-syncing-notes-on-linux--windows">Step 5: Syncing Notes on Linux &amp; Windows</h4>
+<ul>
+<li>Clone the Git repository wherever you want.
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git clone &lt;your-github-repo-url&gt;
+</span></span></code></pre></div></li>
+<li>Open Obsidian and set the vault location to the cloned directory.</li>
+<li>Since <code>.obsidian</code> settings are present in the repo, opening it in Obsidian will work seamlessly.</li>
+<li>To update and sync notes, simply pull or push changes via Git.</li>
+</ul>
+<hr>
+<h3 id="5-conclusion">5. Conclusion</h3>
+<ul>
+<li>This method allows you to sync notes across multiple devices without paying for Obsidian Sync. While it requires manual Git commands, it&rsquo;s a powerful and cost-effective way to maintain version-controlled, cross-device note synchronization.</li>
+<li>Also never push changes from mobile phones. Only use laptop or pc or mac.</li>
+<li>I recommend using SSH for authentication. Instead of cloning with HTTPS, use</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git clone git@github.com:your-username/your-repo.git
+</span></span></code></pre></div><ul>
+<li>Set up SSH keys for secure, password-less authentication.</li>
+</ul>
+<hr>
+<h3 id="6-resources">6. Resources</h3>
+<ul>
+<li><a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank" rel="noopener noreferrer"
+  >ssh</a
+>
+</li>
+<li><a href="https://github.com/ish-app/ish" target="_blank" rel="noopener noreferrer"
+  >iSH SHell</a
+>
+</li>
+<li><a href="https://github.com/termux/termux-app#github" target="_blank" rel="noopener noreferrer"
+  >termux</a
+>
+</li>
+<li><a href="https://github.com/git" target="_blank" rel="noopener noreferrer"
+  >git</a
+>
+</li>
+<li><a href="https://github.com/obsidianmd" target="_blank" rel="noopener noreferrer"
+  >obsidian</a
+>
+</li>
+<li>For more details, read the official documentations.</li>
+</ul></div>
     </article>
   </main>
 </div>
