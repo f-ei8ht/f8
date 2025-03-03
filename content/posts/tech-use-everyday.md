@@ -1,6 +1,6 @@
 ---
 author: Saif Ali Khan
-title: How Techie Am I?
+title: "How Techie Am I?"
 date: 2025-02-24
 description: A list of gadgets and devices I use daily
 categories:

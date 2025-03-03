@@ -1,6 +1,6 @@
 ---
 author: Hugo Authors
-title: Maths
+title: "Maths"
 date: 2025-02-01
 description: A brief guide to setup KaTeX
 categories:
