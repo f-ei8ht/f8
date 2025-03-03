@@ -15,10 +15,15 @@ The **Smart Contact Manager** is a powerful and efficient web application design
 **Key Features:**
 
 - ***Secure User Authentication*** – Supports self-provider login/sign-up and OAuth 2.0 authentication via Google and GitHub.
+
 - ***Contact Management*** – Store and organize contacts with fields like name, email, phone number, and social links (LinkedIn, website).
+
 - ***Profile Management*** – Default profile pictures for self-provider users and Google/Github profile picture integration, stored on Cloudinary.
+  
 - ***Search & Filter*** – Easily find contacts using search and filtering keywords/inputs.
+  
 - ***Add, Edit, and Delete Contacts*** – Full CRUD (Create, Read, Update, Delete) functionality.
+  
 - ***User Experience*** – Clean, responsive UI built with Tailwind CSS and Flowbite.
 
 **Technologies Used:**
