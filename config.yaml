@@ -39,7 +39,7 @@ menu:
 params:
   abbrDateFmt: "Jan 2"
   author: "Blog Author"
-  brandIconFile: images/archlinux.svg
+  brandIconFile: images/linux-svgrepo-com.svg
   customStylesheets:
     - css/custom.css
   math: true
