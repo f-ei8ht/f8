@@ -13,10 +13,10 @@ On this site:
 
 My Technical Interests:
 
+- Linux - arch btw&nbsp; <div style="display: inline-block;"><img src="../images/archlinux.svg" width=16></div>
 - Backend development
 - Algorithms
 - Mathematics & little bit of physics
-- Linux - I use Arch Linux  <div style="display: inline-block;"><img src="../images/archlinux.svg" width=16></div>
 - Open Source
   - [Pull Request 1](https://github.com/mehmetemineker/flappy-bird/pull/4/files)
   - [Pull Request 2](https://github.com/khanshoaib3/PicturePuzzle/pull/1/commits/8e896d48592e348fd84c139a3de88373d03c0e71)
