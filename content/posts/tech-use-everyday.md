@@ -28,7 +28,8 @@ Specifications:
 - **SSD:** 512 GiB M.2 PCle Gen4
 - **Display:** 1920 x 1200 (IPS)
 - **Camera:** 720p
-- Fingerprint reader and the classic <strong style="color:red">TrackPoint</strong> 😉.
+- **Fingerprint reader** 
+- **The classic** <strong style="color:red">TrackPoint</strong> 😉.
 
 I really wanted to get a **ThinkPad T480**, but unfortunately, I couldn't find one.
 
@@ -64,7 +65,7 @@ I've an **iPhone 11 (64GB, Black)**—it still works well and serves my needs.
 
 I primarily use it to view my notes on **Obsidian** and take daily notes on **RemNote**. 
 I also use **iSH Shell** to pull updates to my **Obsidian** vault from **Git**. 
-However, the app I use the most on this phone is **Discord**.
+However, the app I use the most is **Discord**.
 
 ---
 

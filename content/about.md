@@ -25,20 +25,34 @@ My Technical Interests:
 A Bit More About Me:
 
 - I’m a 21-year-old from **India 🇮🇳**, passionate about coding, math, and continuous learning. Currently, I’m focused on landing a tech role.
+
 - If you’re wondering about my alias, **f8**, it comes from my fascination with function keys—F8 just stood out! 
+
 - And as for **d/dx f8 = saif**, it gives off a cool math-meets-tech vibe, like taking the derivative of something abstract.
 
 When I’m not coding, you’ll find me playing games like:
 
-- Red Dead Redemption 
+- Red Dead Redemption 2
 - Ghost Recon: Breakpoint 
-- Or enjoying a game of cricket.
+- Or enjoying a game of cricket 🏏.
 - I had played a lot of games over the years, including:
-  - GTA San Andreas, GTA Vice City, GTA 3, GTA 4, GTA 5
+  - GTA Series (San Andreas, Vice City, 3, 4, 5)
   - Prince of Persia series
   - IGI 2, Max Payne (all parts)
   - God of War (up to God of War 3)
   - Call of Duty: Black Ops
   - Hollow Knight, Among Us
   - Metro Exodus, and many more!
+- Currently I'm playing **RDR2**
+
+I'm also into sports, especially **cricket** 🏏. Here are some of my achievements:
+
+- 🥉 Bronze in Javelin (School)
+- 🥇 Gold in Discus (School)
+- 🥈 Silver in Javelin (Twice in College)
+
+📊 Check out my cricket stats: [Cricheroes Profile](https://cricheroes.com/player-profile/2460291/saif-ali-khan/stats)
+
+
+
 
