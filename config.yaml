@@ -16,26 +16,10 @@ menu:
       name: Resume
       url: /resume/
       weight: 3
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 4
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 5
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 6
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 7
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 8
+      weight: 4
 params:
   abbrDateFmt: "Jan 2"
   author: "Blog Author"

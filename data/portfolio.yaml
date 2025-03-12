@@ -64,3 +64,9 @@ skills:
   - title: "Back-end"
     callouts:
       - name: "Springboot, Hibernate"
+
+projects:
+  - title: "more projects"
+    callouts:
+      - name: "For more projects click Here"
+        link: "https://f-8.netlify.app/projects/"

@@ -1,6 +1,6 @@
 ---
 author: Saif Ali Khan
-title: "How I sync my notes"
+title: "How I sync my notes ?"
 date: 2025-02-17
 Lastmod: 2025-02-25
 description: Guide of how to sync your notes across different devices.
