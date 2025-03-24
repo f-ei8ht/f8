@@ -13,7 +13,7 @@ experience:
         - Bootstrap
       list:
         items:
-          - "Developed the official website for DigiPaath, an Ed-Tech startup,
+          - "Developed the official website for [DigiPaath](https://www.digipaath.com/), an Ed-Tech startup,
             and subsidiary of DigiiDunia."
           - "Implemented a dynamic, responsive Home section using Swiper.js,
             improving user engagement with interactive carousels and sliders."
@@ -66,7 +66,31 @@ skills:
       - name: "Springboot, Hibernate"
 
 projects:
-  - title: "more projects"
+  - title: "Smart Contact Manager"
+    open: true
     callouts:
-      - name: "For more projects click Here"
+      - name: "Contact Manager written in java"
+        link: "https://f-8.netlify.app/"
+      - name: "Code"
+        link: "https://github.com/f-eightProjects/SmartContactManager"
+    collapsed:
+      technologies:
+        - Java
+        - Springboot
+        - Hibernate
+        - JPA
+        - MySQL
+        - HTML, CSS, Tailwind CSS, JavaScript
+        - Flowbite, Thymeleaf
+        - OAuth2.0, Cloudinary
+      list:
+        title: "Smart Contact Manager is a web application designed to manage contacts efficiently. It combines robust backend functionality with a user-friendly frontend to offer a seamless contact management experience."
+        items:
+          - "**Secure User Authentication:** Self-provider login/sign-up, OAuth 2.0 (Google, GitHub)."
+          - "**Contact Management:** fields - name, email, phone, social links."
+          - "**Customizable UX:** Responsive UI with Tailwind CSS & Flowbite, profile page."
+          - "**Cloudinary Integration:** Efficient media storage for user and contact images."
+  - title: "More projects"
+    callouts:
+      - name: "Go to this page"
         link: "https://f-8.netlify.app/projects/"
