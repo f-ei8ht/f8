@@ -28,7 +28,7 @@ params:
     - css/custom.css
   math: true
   dateFmt: "2006-01-02"
-  subtitle: "This is my old portfolio. New one moved to => https://f-8.me"
+  subtitle: "This is my old portfolio. Moved to => https://f-8.me"
 
 markup:
   goldmark:
